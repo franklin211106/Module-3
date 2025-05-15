@@ -38,9 +38,10 @@ def convert(a):
             d=d+1
   ```
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/bc028b98-cfa1-4b48-8348-37f7749000f5)
+![image](https://github.com/user-attachments/assets/d87f2622-46ca-4f1c-88e2-2cd42dd24e0e)
+
 
 # RESULT:
-Thus expected output is acheived
+Thus expected output is acheived.
 
 
