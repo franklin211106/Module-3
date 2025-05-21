@@ -1,5 +1,5 @@
 
-#List Operations in Python: Sum of List Items
+# List Operations in Python: Sum of List Items
 ## Aim
 To write a Python program that calculates the **sum of all elements** in a list.
 ## Algorithm
@@ -19,7 +19,7 @@ print(s)
 ## Result
 Thus the program that calculates the **sum of all elements** in a list has been executed successfully.
 
-#Regex in Python: Filter Words Without the Letter 'e'
+# Regex in Python: Filter Words Without the Letter 'e'
 ## Aim
 To write a Python program that filters out and returns all elements from a list **that do not contain the letter `'e'`**, using **regular expressions (regex)**.
 ## Algorithm
@@ -50,7 +50,7 @@ print(l2)
 ## Result
 Thus the program that filters out and returns all elements from a list **that do not contain the letter `'e'`**, using **regular expressions (regex)** has been executed successfully.
 
-#Strings-Remove Nth Index Character from a String
+# Strings-Remove Nth Index Character from a String
 ## Aim
 To write a Python program that accepts a string and removes the character at a specified index.
 ## Algorithm
@@ -73,7 +73,7 @@ def remove(s):
 ## Result
 Thus the program that accepts a string and removes the character at a specified index has been executed successfully.
 
-#Strings-Palindrome Check in Python (Without Built-in Functions)
+# Strings-Palindrome Check in Python (Without Built-in Functions)
 ## Aim
 To write a Python program to check whether the string `"google"` is a **palindrome** or not, without using built-in palindrome checking functions.
 ## Algorithm
@@ -102,7 +102,7 @@ palindrome(s)
 ## Result
 Thus the program to check whether the string `"google"` is a **palindrome** or not, without using built-in palindrome checking functions has been executed successfully.
 
-#Tuple in Python: Check Element Existence
+# Tuple in Python: Check Element Existence
 ## Aim
 To write a Python program that checks if the element `'n'` and the element `8` exist within a given tuple.
 ## Algorithm
